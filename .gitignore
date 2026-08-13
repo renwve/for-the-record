@@ -1,5 +1,26 @@
-node_modules
-.expo
+# Dependencies
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# Environment variables
 .env
 .env.local
+.env.*.local
+expo-env.d.ts
+
+# Native build output
+android/.gradle/
+android/app/build/
+ios/build/
+
+# Logs
+*.log
+
+# macOS
 .DS_Store
+
+# TypeScript
+*.tsbuildinfo
