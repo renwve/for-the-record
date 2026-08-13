@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "scheme": "forthe_record",
+    "scheme": "fortherecord",
     "plugins": ["expo-router", "expo-splash-screen"],
     "experiments": {"typedRoutes": true}
   }
